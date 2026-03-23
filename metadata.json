@@ -1,0 +1,5 @@
+{
+  "name": "ii",
+  "description": "Using Dictionary (hashmap) search for the words and combine with Google Search Engine for better user experience.",
+  "requestFramePermissions": []
+}

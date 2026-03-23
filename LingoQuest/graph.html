@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html><head>
+  <style> body { margin: 0; background-color: #0F172A; font-family: sans-serif; overflow: hidden; }
+  #title { position: absolute; top: 10px; left: 10px; color: white; opacity: 0.8; padding: 10px; background: rgba(0,0,0,0.5); border-radius: 8px; }</style>
+  <script src="https://unpkg.com/3d-force-graph"></script>
+</head><body>
+  <div id="title"><h2>Adam Dictionary 3D: anxiety</h2><span style="color:#EF4444">■ Tâm</span> | <span style="color:#3B82F6">■ Đồng nghĩa</span> | <span style="color:#10B981">■ Ngữ cảnh/hành vi</span></div>
+  <div id="3d-graph"></div>
+  <script>
+    const gData = {"nodes": [{"id": "anxiety", "group": 1, "size": 30}, {"id": "anxiousness", "group": 2, "size": 15}, {"id": "phobia", "group": 3, "size": 10}, {"id": "irritability", "group": 3, "size": 10}, {"id": "posttraumatic", "group": 3, "size": 10}, {"id": "cbt", "group": 3, "size": 10}, {"id": "ocd", "group": 3, "size": 10}, {"id": "insomnia", "group": 3, "size": 10}, {"id": "disorder", "group": 3, "size": 10}, {"id": "gad", "group": 3, "size": 10}, {"id": "ptsd", "group": 3, "size": 10}, {"id": "hyperactivity", "group": 3, "size": 10}, {"id": "depressive", "group": 3, "size": 10}, {"id": "compulsive", "group": 3, "size": 10}, {"id": "apprehension", "group": 3, "size": 10}, {"id": "panic", "group": 3, "size": 10}, {"id": "psychosis", "group": 3, "size": 10}, {"id": "obsessive", "group": 3, "size": 10}, {"id": "somatic", "group": 3, "size": 10}, {"id": "paranoia", "group": 3, "size": 10}, {"id": "caffeine", "group": 3, "size": 10}, {"id": "adhd", "group": 3, "size": 10}], "links": [{"source": "anxiety", "target": "anxiousness", "value": 2}, {"source": "anxiety", "target": "phobia", "value": 1}, {"source": "anxiety", "target": "irritability", "value": 1}, {"source": "anxiety", "target": "posttraumatic", "value": 1}, {"source": "anxiety", "target": "cbt", "value": 1}, {"source": "anxiety", "target": "ocd", "value": 1}, {"source": "anxiety", "target": "insomnia", "value": 1}, {"source": "anxiety", "target": "disorder", "value": 1}, {"source": "anxiety", "target": "gad", "value": 1}, {"source": "anxiety", "target": "ptsd", "value": 1}, {"source": "anxiety", "target": "hyperactivity", "value": 1}, {"source": "anxiety", "target": "depressive", "value": 1}, {"source": "anxiety", "target": "compulsive", "value": 1}, {"source": "anxiety", "target": "apprehension", "value": 1}, {"source": "anxiety", "target": "panic", "value": 1}, {"source": "anxiety", "target": "psychosis", "value": 1}, {"source": "anxiety", "target": "obsessive", "value": 1}, {"source": "anxiety", "target": "somatic", "value": 1}, {"source": "anxiety", "target": "paranoia", "value": 1}, {"source": "anxiety", "target": "caffeine", "value": 1}, {"source": "anxiety", "target": "adhd", "value": 1}]};
+    const Graph = ForceGraph3D()(document.getElementById('3d-graph'))
+      .graphData(gData)
+      .nodeColor(n => n.group === 1 ? '#EF4444' : n.group === 2 ? '#3B82F6' : '#10B981')
+      .nodeVal(n => n.size)
+      .nodeLabel('id')
+      .linkWidth(2)
+      .linkColor(() => 'rgba(255,255,255,0.15)');
+      
+    // Cinematic camera sweep
+    let angle = 0;
+    setInterval(() => {
+      angle += Math.PI / 300;
+      Graph.cameraPosition({ x: 150 * Math.sin(angle), z: 150 * Math.cos(angle) });
+    }, 20);
+  </script>
+</body></html>

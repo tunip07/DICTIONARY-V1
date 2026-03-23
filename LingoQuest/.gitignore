@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.agent/
+
+backups/
+AGENT_HANDOFF.md
+config.json
+app_state.json
+adam-dictionary-export.txt
+.pytest_cache/
+.venv/
+
+.DS_Store
+Thumbs.db

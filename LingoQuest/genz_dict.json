@@ -1,0 +1,1722 @@
+{
+    "quip": {
+        "meaning": "(EN) a humorous and clever remark:",
+        "phonetic": "kwɪp",
+        "pronunciation": "kwɪp",
+        "ipa_uk": "kwɪp",
+        "ipa_us": "kwɪp",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A smart, sarcastic turn or jest; a taunt; a severe retort or comeback; a gibe.",
+        "pragmatics": "Hay đi kèm with: hose",
+        "definitions": [
+            {
+                "definition": "A smart, sarcastic turn or jest; a taunt; a severe retort or comeback; a gibe.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "blur": {
+        "meaning": "(EN) something that you cannot see clearly:",
+        "phonetic": "blɝː",
+        "pronunciation": "blɝː",
+        "ipa_uk": "blɝː",
+        "ipa_us": "blɝː",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A smear, smudge or blot",
+        "pragmatics": "Hay đi kèm with: out, circles, circle, spots, energy",
+        "definitions": [
+            {
+                "definition": "A smear, smudge or blot",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "imply": {
+        "meaning": "(EN) to communicate an idea or feeling without saying it directly:",
+        "phonetic": "ɪmˈplaɪ",
+        "pronunciation": "ɪmˈplaɪ",
+        "ipa_uk": "ɪmˈplaɪ",
+        "ipa_us": "ɪmˈplaɪ",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "(of a proposition) to have as a necessary consequence",
+        "pragmatics": "Tình huống: ... that, a, the, an, .",
+        "definitions": [
+            {
+                "definition": "(of a proposition) to have as a necessary consequence",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A2",
+        "is_favorite": false
+    },
+    "complexity": {
+        "meaning": "(EN) the state of having many parts and being difficult to understand or find an answer to:",
+        "phonetic": "kəmˈplek.sə.ti",
+        "pronunciation": "kəmˈplek.sə.ti",
+        "ipa_uk": "kəmˈplek.sə.ti",
+        "ipa_us": "kəmˈplek.sə.ti",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The state of being complex; intricacy; entanglement.",
+        "pragmatics": "Hay đi kèm with: simplicity, theory, consciousness, based, demand",
+        "definitions": [
+            {
+                "definition": "The state of being complex; intricacy; entanglement.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "classification": {
+        "meaning": "(EN) the act or process of dividing things into groups according to their type:",
+        "phonetic": "ˌklæs·ə·fɪˈkeɪ·ʃən",
+        "pronunciation": "ˌklæs·ə·fɪˈkeɪ·ʃən",
+        "ipa_uk": "ˌklæs·ə·fɪˈkeɪ·ʃən",
+        "ipa_us": "ˌklæs·ə·fɪˈkeɪ·ʃən",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The act of forming into a class or classes; a distribution into groups, as classes, orders, families, etc., according to some common relations or attributes.",
+        "pragmatics": "Hay đi kèm with: based, books, lip, the, eip",
+        "definitions": [
+            {
+                "definition": "The act of forming into a class or classes; a distribution into groups, as classes, orders, families, etc., according to some common relations or attributes.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C2",
+        "is_favorite": false
+    },
+    "competence": {
+        "meaning": "(EN) the ability to do something well:",
+        "phonetic": "/ˈtæd.pəʊl/",
+        "pronunciation": "/ˈtæd.pəʊl/",
+        "ipa_uk": "/ˈtæd.pəʊl/",
+        "ipa_us": "/ˈtæd.pəʊl/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The quality or state of being competent, i.e. able or suitable for a general role.",
+        "pragmatics": "Hay đi kèm with: based, building, performance, related, oriented",
+        "definitions": [
+            {
+                "definition": "The quality or state of being competent, i.e. able or suitable for a general role.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "taboo": {
+        "meaning": "(EN) a subject, word, or action that is avoided for religious or social reasons:",
+        "phonetic": "təˈbuː",
+        "pronunciation": "təˈbuː",
+        "ipa_uk": "təˈbuː",
+        "ipa_us": "təˈbuː",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "An inhibition or ban that results from social custom or emotional aversion.",
+        "pragmatics": "Hay đi kèm with: subject, subjects, words, topic, topics",
+        "definitions": [
+            {
+                "definition": "An inhibition or ban that results from social custom or emotional aversion.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A2",
+        "is_favorite": false
+    },
+    "convey": {
+        "meaning": "(EN) to express a thought, feeling, or idea so that it is understood by other people:",
+        "phonetic": "kənˈveɪ",
+        "pronunciation": "kənˈveɪ",
+        "ipa_uk": "kənˈveɪ",
+        "ipa_us": "kənˈveɪ",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm with: information, acceptance, respect, empathy, interest",
+        "definitions": [
+            {
+                "definition": "(EN) to express a thought, feeling, or idea so that it is understood by other people:",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "utterance": {
+        "meaning": "(EN) something that someone says:",
+        "phonetic": "/ˈtæd.pəʊl/",
+        "pronunciation": "/ˈtæd.pəʊl/",
+        "ipa_uk": "/ˈtæd.pəʊl/",
+        "ipa_us": "/ˈtæd.pəʊl/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "An act of uttering.",
+        "pragmatics": "Hay đi kèm with: type, meaning, types, basis, samples",
+        "definitions": [
+            {
+                "definition": "An act of uttering.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "concede": {
+        "meaning": "(EN) to admit, often unwillingly, that something is true:",
+        "phonetic": "kənˈsiːd",
+        "pronunciation": "kənˈsiːd",
+        "ipa_uk": "kənˈsiːd",
+        "ipa_us": "kənˈsiːd",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "To yield or suffer; to surrender; to grant",
+        "pragmatics": "Hay đi kèm with: defeat, question, sovereignty",
+        "definitions": [
+            {
+                "definition": "To yield or suffer; to surrender; to grant",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "intersection": {
+        "meaning": "(EN) an occasion when two lines cross, or the place where this happens:",
+        "phonetic": "ˈɪn·tərˌsek·ʃən",
+        "pronunciation": "ˈɪn·tərˌsek·ʃən",
+        "ipa_uk": "ˈɪn·tərˌsek·ʃən",
+        "ipa_us": "ˈɪn·tərˌsek·ʃən",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The junction of two (or more) paths, streets, highways, or other thoroughfares.",
+        "pragmatics": "Hay đi kèm with: model",
+        "definitions": [
+            {
+                "definition": "The junction of two (or more) paths, streets, highways, or other thoroughfares.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C2",
+        "is_favorite": false
+    },
+    "conduct": {
+        "meaning": "(EN) to organize and perform a particular activity:",
+        "phonetic": "kənˈdʌkt",
+        "pronunciation": "kənˈdʌkt",
+        "ipa_uk": "kənˈdʌkt",
+        "ipa_us": "kənˈdʌkt",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "The act or method of controlling or directing",
+        "pragmatics": "Hay đi kèm with: disorder, performance, research, book, disorders",
+        "definitions": [
+            {
+                "definition": "The act or method of controlling or directing",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "measurable": {
+        "meaning": "(EN) able to be measured, or large enough to be noticed:",
+        "phonetic": "ˈmeʒ·ər·ə·bəl",
+        "pronunciation": "ˈmeʒ·ər·ə·bəl",
+        "ipa_uk": "ˈmeʒ·ər·ə·bəl",
+        "ipa_us": "ˈmeʒ·ər·ə·bəl",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "That which can be measured; a metric.",
+        "pragmatics": "Hay đi kèm with: quantities, effect, distance, results, objectives",
+        "definitions": [
+            {
+                "definition": "That which can be measured; a metric.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "diversity": {
+        "meaning": "(EN) the fact of many different types of things or people being included in something; a range of different things or people:",
+        "phonetic": "daɪˈvɜː.sə.ti",
+        "pronunciation": "daɪˈvɜː.sə.ti",
+        "ipa_uk": "daɪˈvɜː.sə.ti",
+        "ipa_us": "daɪˈvɜː.sə.ti",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The quality of being diverse or different; difference or unlikeness.",
+        "pragmatics": "Hay đi kèm with: stability, based, training, competent, factor",
+        "definitions": [
+            {
+                "definition": "The quality of being diverse or different; difference or unlikeness.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "perception": {
+        "meaning": "(EN) a belief or opinion, often held by many people and based on how things seem:",
+        "phonetic": "pɚ-",
+        "pronunciation": "pɚ-",
+        "ipa_uk": "pɚ-",
+        "ipa_us": "pɚ-",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The organisation, identification and interpretation of sensory information.",
+        "pragmatics": "Hay đi kèm with: concept, communication, management, based, cognition",
+        "definitions": [
+            {
+                "definition": "The organisation, identification and interpretation of sensory information.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "empirical": {
+        "meaning": "(EN) based on what is experienced or seen rather than on theory:",
+        "phonetic": "ɪmˈpɪr·ɪ·kəl",
+        "pronunciation": "ɪmˈpɪr·ɪ·kəl",
+        "ipa_uk": "ɪmˈpɪr·ɪ·kəl",
+        "ipa_us": "ɪmˈpɪr·ɪ·kəl",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Pertaining to or based on experience.",
+        "pragmatics": "Hay đi kèm with: evidence, research, studies, data, study",
+        "definitions": [
+            {
+                "definition": "Pertaining to or based on experience.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "superiority": {
+        "meaning": "(EN) the fact that one person or thing is better, stronger, etc. than another:",
+        "phonetic": "suːˌpɪə.riˈɒr.ə.ti",
+        "pronunciation": "suːˌpɪə.riˈɒr.ə.ti",
+        "ipa_uk": "suːˌpɪə.riˈɒr.ə.ti",
+        "ipa_us": "suːˌpɪə.riˈɒr.ə.ti",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The state of being superior.",
+        "pragmatics": "Hay đi kèm with: complex, inferiority",
+        "definitions": [
+            {
+                "definition": "The state of being superior.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "defect": {
+        "meaning": "(EN) a fault or problem in something or someone that spoils that thing or person or causes it, him, or her not to work correctly:",
+        "phonetic": "ˈdiː.fekt",
+        "pronunciation": "ˈdiː.fekt",
+        "ipa_uk": "ˈdiː.fekt",
+        "ipa_us": "ˈdiː.fekt",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A fault or malfunction.",
+        "pragmatics": "Hay đi kèm with: density, structure, prevention, detection, formation",
+        "definitions": [
+            {
+                "definition": "A fault or malfunction.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "collapse": {
+        "meaning": "(EN) to fall down suddenly because of pressure or having no strength or support:",
+        "phonetic": "kəˈlæps",
+        "pronunciation": "kəˈlæps",
+        "ipa_uk": "kəˈlæps",
+        "ipa_us": "kəˈlæps",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "The act of collapsing.",
+        "pragmatics": "Hay đi kèm with: therapy, time, breccia, verb, box",
+        "definitions": [
+            {
+                "definition": "The act of collapsing.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "executives": {
+        "meaning": "(EN) someone in a high position, especially in business, who makes decisions and puts them into action:",
+        "phonetic": "ɪɡˈzek.jə.tɪv",
+        "pronunciation": "ɪɡˈzek.jə.tɪv",
+        "ipa_uk": "ɪɡˈzek.jə.tɪv",
+        "ipa_us": "ɪɡˈzek.jə.tɪv",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A chief officer or administrator, especially one who can make significant decisions on their own authority.",
+        "pragmatics": "Tình huống: ... ., and, of, in, who",
+        "definitions": [
+            {
+                "definition": "A chief officer or administrator, especially one who can make significant decisions on their own authority.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "bring about": {
+        "meaning": "(EN) to cause something to happen:",
+        "phonetic": "brɪŋ",
+        "pronunciation": "brɪŋ",
+        "ipa_uk": "brɪŋ",
+        "ipa_us": "brɪŋ",
+        "pos": "phrasal verb",
+        "part_of_speech": "phrasal verb",
+        "example": "",
+        "eng_meaning": "To cause to take place.",
+        "pragmatics": "Từ này mang tính độc lập cực cao.",
+        "definitions": [
+            {
+                "definition": "To cause to take place.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C2",
+        "is_favorite": false
+    },
+    "repercussions": {
+        "meaning": "(EN) the effect that an action, event, or decision has on something, especially a bad effect:",
+        "phonetic": "ˌri·pərˈkʌʃ·ən",
+        "pronunciation": "ˌri·pərˈkʌʃ·ən",
+        "ipa_uk": "ˌri·pərˈkʌʃ·ən",
+        "ipa_us": "ˌri·pərˈkʌʃ·ən",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A consequence or ensuing result of some action.",
+        "pragmatics": "Tình huống: ... of, ., on, in, for",
+        "definitions": [
+            {
+                "definition": "A consequence or ensuing result of some action.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C2",
+        "is_favorite": false
+    },
+    "violation": {
+        "meaning": "(EN) an action that breaks or acts against something, especially a law, agreement, principle, or something that should be treated with respect:",
+        "phonetic": "/ˈtæd.pəʊl/",
+        "pronunciation": "/ˈtæd.pəʊl/",
+        "ipa_uk": "/ˈtæd.pəʊl/",
+        "ipa_us": "/ˈtæd.pəʊl/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The act or an instance of violating or the condition of being violated.",
+        "pragmatics": "Hay đi kèm with: complaints, condition, conditions",
+        "definitions": [
+            {
+                "definition": "The act or an instance of violating or the condition of being violated.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "retirement": {
+        "meaning": "(EN) the act of leaving your job and stopping working, usually because you are old:",
+        "phonetic": "rɪˈtaɪə.mənt",
+        "pronunciation": "rɪˈtaɪə.mənt",
+        "ipa_uk": "rɪˈtaɪə.mənt",
+        "ipa_us": "rɪˈtaɪə.mənt",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "An act of retiring; withdrawal.",
+        "pragmatics": "Hay đi kèm with: benefits, income, years, programs, age",
+        "definitions": [
+            {
+                "definition": "An act of retiring; withdrawal.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "substantial": {
+        "meaning": "(EN) large in size, value, or importance:",
+        "phonetic": "səbˈstæn·ʃəl",
+        "pronunciation": "səbˈstæn·ʃəl",
+        "ipa_uk": "səbˈstæn·ʃəl",
+        "ipa_us": "səbˈstæn·ʃəl",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Anything having substance; an essential part.",
+        "pragmatics": "Hay đi kèm with: number, amount, part, increase, portion",
+        "definitions": [
+            {
+                "definition": "Anything having substance; an essential part.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "single-minded": {
+        "meaning": "(EN) very determined to achieve something:",
+        "phonetic": "ˈsɪŋ·ɡəlˈmɑɪn·dɪd",
+        "pronunciation": "ˈsɪŋ·ɡəlˈmɑɪn·dɪd",
+        "ipa_uk": "ˈsɪŋ·ɡəlˈmɑɪn·dɪd",
+        "ipa_us": "ˈsɪŋ·ɡəlˈmɑɪn·dɪd",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Intensely focused and concentrated on purpose, thinking of only one goal, undistractable.",
+        "pragmatics": "Từ này mang tính độc lập cực cao.",
+        "definitions": [
+            {
+                "definition": "Intensely focused and concentrated on purpose, thinking of only one goal, undistractable.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "promote": {
+        "meaning": "(EN) to encourage people to like, buy, use, do, or support something:",
+        "phonetic": "prəˈməʊt",
+        "pronunciation": "prəˈməʊt",
+        "ipa_uk": "prəˈməʊt",
+        "ipa_us": "prəˈməʊt",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+        "pragmatics": "Hay đi kèm with: products, understanding, learning, development, fellowship",
+        "definitions": [
+            {
+                "definition": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "initiatives": {
+        "meaning": "(EN) a new plan or process to achieve something or solve a problem:",
+        "phonetic": "ɪˈnɪʃ.ə.tɪv",
+        "pronunciation": "ɪˈnɪʃ.ə.tɪv",
+        "ipa_uk": "ɪˈnɪʃ.ə.tɪv",
+        "ipa_us": "ɪˈnɪʃ.ə.tɪv",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A beginning; a first move.",
+        "pragmatics": "Tình huống: ... ., in, and, to, that",
+        "definitions": [
+            {
+                "definition": "A beginning; a first move.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "staggering": {
+        "meaning": "(EN) very shocking and surprising:",
+        "phonetic": "ˈstæɡ.ɚ.ɪŋ",
+        "pronunciation": "ˈstæɡ.ɚ.ɪŋ",
+        "ipa_uk": "ˈstæɡ.ɚ.ɪŋ",
+        "ipa_us": "ˈstæɡ.ɚ.ɪŋ",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Sway unsteadily, reel, or totter.",
+        "pragmatics": "Hay đi kèm with: blow, number, amount, sum, gait",
+        "definitions": [
+            {
+                "definition": "Sway unsteadily, reel, or totter.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "characterized": {
+        "meaning": "(EN) past simple and past participle of characterize",
+        "phonetic": "ˈkær.ək.tə.raɪz",
+        "pronunciation": "ˈkær.ək.tə.raɪz",
+        "ipa_uk": "ˈkær.ək.tə.raɪz",
+        "ipa_us": "ˈkær.ək.tə.raɪz",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "",
+        "pragmatics": "Tình huống: ... by, as, the, in, .",
+        "definitions": [
+            {
+                "definition": "(EN) past simple and past participle of characterize",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C2",
+        "is_favorite": false
+    },
+    "serendipity": {
+        "meaning": "(EN) the fact of finding interesting or valuable things by chance",
+        "phonetic": "/ˈtæd.pəʊl/",
+        "pronunciation": "/ˈtæd.pəʊl/",
+        "ipa_uk": "/ˈtæd.pəʊl/",
+        "ipa_us": "/ˈtæd.pəʊl/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+        "pragmatics": "Tình huống: ... ., and, in, of, is",
+        "definitions": [
+            {
+                "definition": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "unprecedented": {
+        "meaning": "(EN) never having happened or existed in the past:",
+        "phonetic": "ʌnˈpres.ɪ.den.tɪd",
+        "pronunciation": "ʌnˈpres.ɪ.den.tɪd",
+        "ipa_uk": "ʌnˈpres.ɪ.den.tɪd",
+        "ipa_us": "ʌnˈpres.ɪ.den.tɪd",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm with: scale, growth, levels, degree, rate",
+        "definitions": [
+            {
+                "definition": "(EN) never having happened or existed in the past:",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C2",
+        "is_favorite": false
+    },
+    "deserve": {
+        "meaning": "(EN) to have earned or to be given something because of the way you have behaved or the qualities you have:",
+        "phonetic": "dɪˈzɜːv",
+        "pronunciation": "dɪˈzɜːv",
+        "ipa_uk": "dɪˈzɜːv",
+        "ipa_us": "dɪˈzɜːv",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "",
+        "pragmatics": "Tình huống: ... to, the, it, ., a",
+        "definitions": [
+            {
+                "definition": "(EN) to have earned or to be given something because of the way you have behaved or the qualities you have:",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "interest": {
+        "meaning": "(EN) the feeling of wanting to give your attention to something or of wanting to be involved with and to discover more about something:",
+        "phonetic": "ˈɪn.trest",
+        "pronunciation": "ˈɪn.trest",
+        "ipa_uk": "ˈɪn.trest",
+        "ipa_us": "ˈɪn.trest",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "Sport has never really interested me.",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm with: groups, loans, group, bearing, stories",
+        "definitions": [
+            {
+                "definition": "(EN) the feeling of wanting to give your attention to something or of wanting to be involved with and to discover more about something:",
+                "example": "Sport has never really interested me.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "development": {
+        "meaning": "(EN) the process in which someone or something grows or changes and becomes more advanced:",
+        "phonetic": "dɪˈvel.əp.mənt",
+        "pronunciation": "dɪˈvel.əp.mənt",
+        "ipa_uk": "dɪˈvel.əp.mənt",
+        "ipa_us": "dɪˈvel.əp.mənt",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "Call me if there are any new developments.",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm with: programs, projects, activities, efforts, work",
+        "definitions": [
+            {
+                "definition": "(EN) the process in which someone or something grows or changes and becomes more advanced:",
+                "example": "Call me if there are any new developments.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "campaign": {
+        "meaning": "(EN) a planned group of especially political, business, or military activities that are intended to achieve a particular aim:",
+        "phonetic": "kæmˈpeɪn",
+        "pronunciation": "kæmˈpeɪn",
+        "ipa_uk": "kæmˈpeɪn",
+        "ipa_us": "kæmˈpeɪn",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm with: contributions, funds, reform, finance, speech",
+        "definitions": [
+            {
+                "definition": "(EN) a planned group of especially political, business, or military activities that are intended to achieve a particular aim:",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B2",
+        "is_favorite": false
+    },
+    "help": {
+        "meaning": "(EN) to make it possible or easier for someone to do something, by doing part of the work yourself or by providing advice, money, support, etc.:",
+        "phonetic": "help",
+        "pronunciation": "help",
+        "ipa_uk": "help",
+        "ipa_us": "help",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "How can I help you?",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm với: groups, wanted, yourself, seeking, books",
+        "definitions": [
+            {
+                "definition": "(EN) to make it possible or easier for someone to do something, by doing part of the work yourself or by providing advice, money, support, etc.:",
+                "example": "How can I help you?",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "defend": {
+        "meaning": "(EN) to protect someone or something against attack or criticism:",
+        "phonetic": "dɪˈfend",
+        "pronunciation": "dɪˈfend",
+        "ipa_uk": "dɪˈfend",
+        "ipa_us": "dɪˈfend",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "",
+        "pragmatics": "Hay đi kèm với: freedom, democracy, thee, yourself, liberty",
+        "definitions": [
+            {
+                "definition": "(EN) to protect someone or something against attack or criticism:",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A2"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A2",
+        "is_favorite": false
+    },
+    "difficult": {
+        "meaning": "Làm khó; cản trở; đến bối rối.",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "pronunciation": "/ˈdɪfɪkəlt/",
+        "ipa_uk": "/ˈdɪfɪkəlt/",
+        "ipa_us": "/ˈdɪfɪkəlt/",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "To make difficult; to impede; to perplex.",
+        "pragmatics": "Hay đi kèm với: task, problem, problems, time, situation",
+        "definitions": [
+            {
+                "definition": "To make difficult; to impede; to perplex.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "deflect": {
+        "meaning": "Làm cho (cái gì đó) đi chệch khỏi con đường ban đầu của nó.",
+        "phonetic": "/dɪˈflɛkt/",
+        "pronunciation": "/dɪˈflɛkt/",
+        "ipa_uk": "/dɪˈflɛkt/",
+        "ipa_us": "/dɪˈflɛkt/",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "",
+        "eng_meaning": "To make (something) deviate from its original path.",
+        "pragmatics": "Hay đi kèm với: blame, attention, criticism, ion, light",
+        "definitions": [
+            {
+                "definition": "To make (something) deviate from its original path.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "hi": {
+        "meaning": "Từ \"hi\" được sử dụng như một lời chào.",
+        "phonetic": "/haɪ/",
+        "pronunciation": "/haɪ/",
+        "ipa_uk": "/haɪ/",
+        "ipa_us": "/haɪ/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "I didn't even get a hi.",
+        "eng_meaning": "The word \"hi\" used as a greeting.",
+        "pragmatics": "Tình huống: ., the, and, a, is",
+        "definitions": [
+            {
+                "definition": "The word \"hi\" used as a greeting.",
+                "example": "I didn't even get a hi.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "hello": {
+        "meaning": "\"Xin chào!\" hoặc một lời chào tương đương.",
+        "phonetic": "/həˈləʊ/",
+        "pronunciation": "/həˈləʊ/",
+        "ipa_uk": "/həˈləʊ/",
+        "ipa_us": "/həˈləʊ/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "\"Hello!\" or an equivalent greeting.",
+        "pragmatics": "Hay đi kèm với: world, girl, packets, message, there",
+        "definitions": [
+            {
+                "definition": "\"Hello!\" or an equivalent greeting.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": true
+    },
+    "anxiety": {
+        "meaning": "Một trạng thái khó chịu về tinh thần, bồn chồn, lo sợ và ám ảnh hoặc lo lắng về một sự kiện không chắc chắn nào đó.",
+        "phonetic": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
+        "pronunciation": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
+        "ipa_uk": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
+        "ipa_us": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+        "pragmatics": "Hay đi kèm với: scale, reduction, depression, tension, neurosis",
+        "definitions": [
+            {
+                "definition": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "simple": {
+        "meaning": "Một chế phẩm thảo dược được làm từ một loại cây, trái ngược với một chế phẩm được làm từ nhiều loại cây.",
+        "phonetic": "/ˈsɪmpəl/",
+        "pronunciation": "/ˈsɪmpəl/",
+        "ipa_uk": "/ˈsɪmpəl/",
+        "ipa_us": "/ˈsɪmpəl/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A herbal preparation made from one plant, as opposed to something made from more than one plant.",
+        "pragmatics": "Hay đi kèm với: example, matter, model, way, method",
+        "definitions": [
+            {
+                "definition": "A herbal preparation made from one plant, as opposed to something made from more than one plant.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "consumption": {
+        "meaning": "Hành động ăn, uống hoặc sử dụng.",
+        "phonetic": "/kənˈsʌmp.ʃən/",
+        "pronunciation": "/kənˈsʌmp.ʃən/",
+        "ipa_uk": "/kənˈsʌmp.ʃən/",
+        "ipa_us": "/kənˈsʌmp.ʃən/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "The consumption of snails as food is more common in France than in England.",
+        "eng_meaning": "The act of eating, drinking or using.",
+        "pragmatics": "",
+        "definitions": [
+            {
+                "definition": "The act of eating, drinking or using.",
+                "example": "The consumption of snails as food is more common in France than in England.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "C1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "C1",
+        "is_favorite": false
+    },
+    "h": {
+        "meaning": "(chủ yếu là tiếng lóng trên Internet) Được sử dụng như một phản hồi bổ sung khi một người không có phản hồi để sử dụng. Hầu như luôn luôn được sử dụng bởi chính nó.",
+        "phonetic": "",
+        "pronunciation": "",
+        "ipa_uk": "",
+        "ipa_us": "",
+        "pos": "interjection",
+        "part_of_speech": "interjection",
+        "example": "",
+        "eng_meaning": "(chiefly Internet slang) Used as a filler response when one does not have a response to use. Almost always used by itself.",
+        "pragmatics": "Tình huống: and, is, in, of, h",
+        "definitions": [
+            {
+                "definition": "(chiefly Internet slang) Used as a filler response when one does not have a response to use. Almost always used by itself.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "dilemma": {
+        "meaning": "Một tình huống trong đó phải lựa chọn giữa hai hoặc nhiều lựa chọn thay thế mà dường như đều không mong muốn.",
+        "phonetic": "/daɪˈlɛmə/",
+        "pronunciation": "/daɪˈlɛmə/",
+        "ipa_uk": "/daɪˈlɛmə/",
+        "ipa_us": "/daɪˈlɛmə/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A circumstance in which a choice must be made between two or more alternatives that seem equally undesirable.",
+        "pragmatics": "Hay đi kèm với: items, sankarrao, the",
+        "definitions": [
+            {
+                "definition": "A circumstance in which a choice must be made between two or more alternatives that seem equally undesirable.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "tide": {
+        "meaning": "Sự thay đổi có tính chu kỳ của mực nước biển, đặc biệt do ảnh hưởng của lực hấp dẫn của mặt trời và mặt trăng.",
+        "phonetic": "/taɪd/",
+        "pronunciation": "/taɪd/",
+        "ipa_uk": "/taɪd/",
+        "ipa_us": "/taɪd/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The periodic change of the sea level, particularly when caused by the gravitational influence of the sun and the moon.",
+        "pragmatics": "Hay đi kèm với: water, page, stories, gauge, generating",
+        "definitions": [
+            {
+                "definition": "The periodic change of the sea level, particularly when caused by the gravitational influence of the sun and the moon.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "hell": {
+        "meaning": "địa ngục",
+        "phonetic": "",
+        "pronunciation": "",
+        "ipa_uk": "",
+        "ipa_us": "",
+        "pos": "",
+        "part_of_speech": "",
+        "example": "",
+        "eng_meaning": "hell",
+        "pragmatics": "Hay đi kèm với: fire, hole, hounds, raiser, raising",
+        "definitions": [
+            {
+                "definition": "hell",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "idea": {
+        "meaning": "Một nguyên mẫu trừu tượng của một vật nhất định, được so sánh với các ví dụ thực tế trong đời sống được coi là những xấp xỉ không hoàn hảo; bản chất thuần khiết, trái ngược với các ví dụ thực tế.",
+        "phonetic": "/ɑeˈdiə̯/",
+        "pronunciation": "/ɑeˈdiə̯/",
+        "ipa_uk": "/ɑeˈdiə̯/",
+        "ipa_us": "/ɑeˈdiə̯/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+        "pragmatics": "Hay đi kèm với: finding, expression, generating, generation, motor",
+        "definitions": [
+            {
+                "definition": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "work": {
+        "meaning": "(tiêu đề) Việc làm.",
+        "phonetic": "/wɜːk/",
+        "pronunciation": "/wɜːk/",
+        "ipa_uk": "/wɜːk/",
+        "ipa_us": "/wɜːk/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "(heading) Employment.",
+        "pragmatics": "Hay đi kèm với: study, programs, process, laws, system",
+        "definitions": [
+            {
+                "definition": "(heading) Employment.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "dumb": {
+        "meaning": "Không thể nói được; thiếu khả năng nói (được giữ ở trạng thái \"điếc, câm và mù\").",
+        "phonetic": "/dʌm/",
+        "pronunciation": "/dʌm/",
+        "ipa_uk": "/dʌm/",
+        "ipa_us": "/dʌm/",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "His younger brother was born dumb, and communicated with sign language.",
+        "eng_meaning": "Unable to speak; lacking power of speech (kept in \"deaf, dumb, and blind\").",
+        "pragmatics": "Hay đi kèm với: show, bell, animals, bells, thing",
+        "definitions": [
+            {
+                "definition": "Unable to speak; lacking power of speech (kept in \"deaf, dumb, and blind\").",
+                "example": "His younger brother was born dumb, and communicated with sign language.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "pulchritudinous": {
+        "meaning": "Có vẻ đẹp hình thể tuyệt vời.",
+        "phonetic": "/ˌpʌlkɹɪˈtjuːdɪnəs/",
+        "pronunciation": "/ˌpʌlkɹɪˈtjuːdɪnəs/",
+        "ipa_uk": "/ˌpʌlkɹɪˈtjuːdɪnəs/",
+        "ipa_us": "/ˌpʌlkɹɪˈtjuːdɪnəs/",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Having great physical beauty.",
+        "pragmatics": "Hay đi kèm với: playmates, female, evangelist, weakling, females",
+        "definitions": [
+            {
+                "definition": "Having great physical beauty.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "perspicacious": {
+        "meaning": "Có sự sáng suốt sắc bén; có cái nhìn sâu sắc; nhận thức tinh thần.",
+        "phonetic": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+        "pronunciation": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+        "ipa_uk": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+        "ipa_us": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Of acute discernment; having keen insight; mentally perceptive.",
+        "pragmatics": "Hay đi kèm với: reader, observer, man, critic, mind",
+        "definitions": [
+            {
+                "definition": "Of acute discernment; having keen insight; mentally perceptive.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "quintessentially": {
+        "meaning": "Theo cách điển hình hoặc đặc trưng của bản chất sự vật.",
+        "phonetic": "/ˌkwɪntɛˈsɛntʃəli/",
+        "pronunciation": "/ˌkwɪntɛˈsɛntʃəli/",
+        "ipa_uk": "/ˌkwɪntɛˈsɛntʃəli/",
+        "ipa_us": "/ˌkwɪntɛˈsɛntʃəli/",
+        "pos": "adverb",
+        "part_of_speech": "adverb",
+        "example": "",
+        "eng_meaning": "In a manner that is typical or characteristic of a thing's nature.",
+        "pragmatics": "Hay đi kèm với: male, human, part, representative, emotion",
+        "definitions": [
+            {
+                "definition": "In a manner that is typical or characteristic of a thing's nature.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "hellspawn": {
+        "meaning": "địa ngục",
+        "phonetic": "",
+        "pronunciation": "",
+        "ipa_uk": "",
+        "ipa_us": "",
+        "pos": "",
+        "part_of_speech": "",
+        "example": "",
+        "eng_meaning": "hellspawn",
+        "pragmatics": "Tình huống: .",
+        "definitions": [
+            {
+                "definition": "hellspawn",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "ubiquitousness": {
+        "meaning": "sự có mặt khắp nơi",
+        "phonetic": "",
+        "pronunciation": "",
+        "ipa_uk": "",
+        "ipa_us": "",
+        "pos": "",
+        "part_of_speech": "",
+        "example": "",
+        "eng_meaning": "ubiquitousness",
+        "pragmatics": "Tình huống: of, and, ., in, is",
+        "definitions": [
+            {
+                "definition": "ubiquitousness",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "quokka": {
+        "meaning": "Một loài thú có túi cỡ mèo, Setonix brachyurus, ở tây nam Australia.",
+        "phonetic": "/ˈkwɒkə/",
+        "pronunciation": "/ˈkwɒkə/",
+        "ipa_uk": "/ˈkwɒkə/",
+        "ipa_us": "/ˈkwɒkə/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "A cat-sized marsupial, Setonix brachyurus, of southwestern Australia.",
+        "pragmatics": "Tình huống: sports, ., and, is",
+        "definitions": [
+            {
+                "definition": "A cat-sized marsupial, Setonix brachyurus, of southwestern Australia.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "anxious": {
+        "meaning": "Hồi hộp và lo lắng.",
+        "phonetic": "/ˈaŋ(k)ʃəs/",
+        "pronunciation": "/ˈaŋ(k)ʃəs/",
+        "ipa_uk": "/ˈaŋ(k)ʃəs/",
+        "ipa_us": "/ˈaŋ(k)ʃəs/",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "",
+        "eng_meaning": "Nervous and worried.",
+        "pragmatics": "Hay đi kèm với: eyes, look, face, care, thought",
+        "definitions": [
+            {
+                "definition": "Nervous and worried.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "storage": {
+        "meaning": "Hành vi lưu giữ hàng hóa; trạng thái đang được lưu trữ.",
+        "phonetic": "/ˈstɔ.ɹɪd͡ʒ/",
+        "pronunciation": "/ˈstɔ.ɹɪd͡ʒ/",
+        "ipa_uk": "/ˈstɔ.ɹɪd͡ʒ/",
+        "ipa_us": "/ˈstɔ.ɹɪd͡ʒ/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "There's a lot of storage space in the loft.",
+        "eng_meaning": "The act of storing goods; the state of being stored.",
+        "pragmatics": "Hay đi kèm với: section, capacity, device, space, disease",
+        "definitions": [
+            {
+                "definition": "The act of storing goods; the state of being stored.",
+                "example": "There's a lot of storage space in the loft.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "B1"
+        ],
+        "direction": "en-vi",
+        "added_at": "2026-03-22T19:04:10",
+        "level": "B1",
+        "is_favorite": false
+    },
+    "dark": {
+        "meaning": "Thiếu ánh sáng tuyệt đối hoặc (thường xuyên hơn) tương đối.",
+        "phonetic": "/dɑːk/",
+        "pronunciation": "/dɑːk/",
+        "ipa_uk": "/dɑːk/",
+        "ipa_us": "/dɑːk/",
+        "pos": "adjective",
+        "part_of_speech": "adjective",
+        "example": "The room was too dark for reading.",
+        "eng_meaning": "Having an absolute or (more often) relative lack of light.",
+        "pragmatics": "Hay đi kèm với: eyes, hair, brown, night, room",
+        "definitions": [
+            {
+                "definition": "Having an absolute or (more often) relative lack of light.",
+                "example": "The room was too dark for reading.",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "darl": {
+        "meaning": "Em yêu (như một thuật ngữ địa chỉ)",
+        "phonetic": "",
+        "pronunciation": "",
+        "ipa_uk": "",
+        "ipa_us": "",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "Darling (as a term of address)",
+        "pragmatics": "Tình huống: ., is, and, bundren, said",
+        "definitions": [
+            {
+                "definition": "Darling (as a term of address)",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "lend": {
+        "meaning": "Vùng thắt lưng; thăn.",
+        "phonetic": "/lɛnd/",
+        "pronunciation": "/lɛnd/",
+        "ipa_uk": "/lɛnd/",
+        "ipa_us": "/lɛnd/",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "The lumbar region; loin.",
+        "pragmatics": "Hay đi kèm với: lease, hand, agreement, arrangements, liz",
+        "definitions": [
+            {
+                "definition": "The lumbar region; loin.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "app": {
+        "meaning": "Một ứng dụng (chương trình), đặc biệt là một ứng dụng nhỏ được thiết kế cho thiết bị di động.",
+        "phonetic": "[ʔæʔp̚]",
+        "pronunciation": "[ʔæʔp̚]",
+        "ipa_uk": "[ʔæʔp̚]",
+        "ipa_us": "[ʔæʔp̚]",
+        "pos": "noun",
+        "part_of_speech": "noun",
+        "example": "",
+        "eng_meaning": "An application (program), especially a small one designed for a mobile device.",
+        "pragmatics": "Hay đi kèm với: defaults, public, element, domain, name",
+        "definitions": [
+            {
+                "definition": "An application (program), especially a small one designed for a mobile device.",
+                "example": "",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "do": {
+        "meaning": "Để biểu diễn; để thực thi.",
+        "phonetic": "/dʉː/",
+        "pronunciation": "/dʉː/",
+        "ipa_uk": "/dʉː/",
+        "ipa_us": "/dʉː/",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "All you ever do is surf the Internet. What will you do this afternoon?",
+        "eng_meaning": "To perform; to execute.",
+        "pragmatics": "Tình huống: not, you, ., so, with",
+        "definitions": [
+            {
+                "definition": "To perform; to execute.",
+                "example": "All you ever do is surf the Internet. What will you do this afternoon?",
+                "synonyms": [
+                    "accomplish",
+                    "carry out",
+                    "functionate"
+                ]
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    },
+    "have": {
+        "meaning": "Để giữ, như một cái gì đó theo ý của ai đó.",
+        "phonetic": "",
+        "pronunciation": "",
+        "ipa_uk": "",
+        "ipa_us": "",
+        "pos": "verb",
+        "part_of_speech": "verb",
+        "example": "Do you have the key? (not necessarily one's own key)",
+        "eng_meaning": "To hold, as something at someone's disposal.",
+        "pragmatics": "Hay đi kèm với: nots, beens, time, occasion, mercy",
+        "definitions": [
+            {
+                "definition": "To hold, as something at someone's disposal.",
+                "example": "Do you have the key? (not necessarily one's own key)",
+                "synonyms": []
+            }
+        ],
+        "tags": [
+            "A1"
+        ],
+        "direction": "en-vi",
+        "added_at": "",
+        "level": "A1",
+        "is_favorite": false
+    }
+}

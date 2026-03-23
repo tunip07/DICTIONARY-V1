@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Web build artifacts
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Desktop app / Python artifacts
+LingoQuest/__pycache__/
+LingoQuest/*.py[cod]
+LingoQuest/.agent/
+LingoQuest/backups/
+LingoQuest/.pytest_cache/
+LingoQuest/.venv/
+LingoQuest/AGENT_HANDOFF.md
+LingoQuest/config.json
+LingoQuest/app_state.json
+LingoQuest/adam-dictionary-export.txt
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
