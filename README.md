@@ -1,4 +1,5 @@
-# Adam Dictionary / We
+# Adam Dictionary / 
+DỰ ÁN NHỎ BỊ ĐẤM CHẾT BỚI SONNT PFP191 FPTU
 
 Repo này gồm **2 ứng dụng**:
 
